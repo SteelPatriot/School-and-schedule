@@ -1,0 +1,81 @@
+.content{
+    display: block;
+    position: relative;
+    left: 25%;
+    top: 35%;
+    width: 50%;
+
+
+}
+.grid-wrap{
+    padding: 0;
+}
+.content h2 a{
+    color: #2b3145;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.content h2{
+    color: #2b3145;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.contentAll{
+    margin-top: 15px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 30px;
+}
+
+.contentAll h2 {
+    text-align: center;
+}
+
+.contentAll .f {
+    text-align:right;
+}
+
+.contentAll p {
+    font-size: 18px;
+    margin-top: 5px;
+    color: #2b3145;
+}
+textarea{
+    border-color: #5397c7;
+    border-width: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 30px;
+    margin: 5px 0%;
+    width: 100%;
+}
+input {
+    border-color: #5397c7;
+    border-width: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 5px;
+    margin: 5px 0%;
+    width: 100%;
+}
+
+.w-left{
+
+position: fixed;
+    left: 3%;
+    top: 25%;
+}
+.w-right{
+    position: fixed;
+    right: -3%;
+    top: 25%;
+}
+.podval{
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    height: 100px;
+    background-color: #2b3145;
+    margin-top: 10px;
+
+}
